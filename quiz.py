@@ -10,6 +10,8 @@ print('hello world')
 x = 55 / 11 
 print(x)
 
+
+
 #3. What is the output of this code? 
 # Hint:Read the code carefully
 
@@ -24,8 +26,9 @@ elif x == 1:
   print('one')
 else:
   print('More')
-
-
+  
+  
+  
 #4 What is the output of this code
 name = 'Finn'
 print(name + ' the human')
@@ -45,13 +48,18 @@ print(text)
 engine_sound = 'vroom'
 print(engine_sound * 4)
 
+
+
 # 7 What is the output of this code?
 print(3 * 'un' + 'ium')
+
 
 
 # 8 What is the output of this code?
 
 print(1.0 * 10 - 1)
+
+
 
 #9 What is the output of this code?
 
@@ -78,6 +86,7 @@ if the_karate_kid == "Johnny Lawrence"
 
 
 # 11 How do we get input from the user? create a variable called name and ask the user "what is your name"
+
 
 
 #12 What is the bug? How do you fix it? 
@@ -108,3 +117,6 @@ B
 C
 '''
 )
+
+
+
